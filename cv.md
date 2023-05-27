@@ -19,3 +19,12 @@ I am 26 years old, at the moment I am a novice self-taught frontend developer. M
 * HTML( basic level)
 * CSS ( basic level )
 * VS code
+========
+
+4. Code Examples
+``` 
+function multiply(a, b){
+  a * b
+  return a * b
+}
+```
