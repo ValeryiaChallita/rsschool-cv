@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ValeryiaChallita.github.io/rsschool-cv/cv
