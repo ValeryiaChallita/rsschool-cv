@@ -1,5 +1,6 @@
 # CV for RSSchool
 1. ## Valeryia Challita
+![profile photo](/25_hoR0JNcs.jpg)
 ******
 2. ## Contacts:
 * Email:
