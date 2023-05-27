@@ -18,3 +18,4 @@ I am 26 years old, at the moment I am a novice self-taught frontend developer. M
 3. Skills:
 * HTML( basic level)
 * CSS ( basic level )
+* VS code
