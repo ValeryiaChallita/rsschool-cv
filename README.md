@@ -1,1 +1,1 @@
-https://ValeryiaChallita.github.io/rsschool-cv/cv
+https://ValeryiaChallita.github.io/rsschool-cv/cv 
